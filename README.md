@@ -1,2 +1,2 @@
-# VREA
-The Matlab Codes of VREA
+# RVEPSO
+The Matlab Codes of RVEPSO
